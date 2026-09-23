@@ -38,3 +38,9 @@ Tengo que resaltar ==ESTO==
 H~2~O
 
 X^2^
+
+
+---
+---
+---
+Modificación realizada en windows
