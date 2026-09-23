@@ -23,3 +23,8 @@ Esta modificación nos sirve para arender Markdown que por ejemplo los títulos 
 | versión | Modificación | Propietario de la modificación |
 | ---- | --- | --- |
 | 1.0 | Creación del readme | Victor Vergel |
+
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
