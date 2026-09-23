@@ -15,3 +15,11 @@ Hemos colaborado en el proyecto:
 - Ana
 
 Esta modificación nos sirve para arender Markdown que por ejemplo los títulos `<H1> </H1>` los coloca con una almohadilla
+
+---
+
+[Gregorio Fernández](https://www.gregoriofer.com)
+
+| versión | Modificación | Propietario de la modificación |
+| ---- | --- | --- |
+| 1.0 | Creación del readme | Victor Vergel |
