@@ -32,10 +32,9 @@ Una frase con una nota. [^1]
 term
 : definition
 
-~The world is flat.~~
+~~Hola~~
 
-I need to highlight these ==very important words==.
-
+Tengo que resaltar ==ESTO==
 H~2~O
 
 X^2^
