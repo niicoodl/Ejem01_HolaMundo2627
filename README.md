@@ -28,3 +28,14 @@ Esta modificación nos sirve para arender Markdown que por ejemplo los títulos 
 Una frase con una nota. [^1]
 
 [^1]: Esta es la nota.
+
+term
+: definition
+
+~The world is flat.~~
+
+I need to highlight these ==very important words==.
+
+H~2~O
+
+X^2^
