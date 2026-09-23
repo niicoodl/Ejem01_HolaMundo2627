@@ -25,6 +25,6 @@ Esta modificación nos sirve para arender Markdown que por ejemplo los títulos 
 | 1.0 | Creación del readme | Victor Vergel |
 
 
-Here's a sentence with a footnote. [^1]
+Una frase con una nota. [^1]
 
-[^1]: This is the footnote.
+[^1]: Esta es la nota.
